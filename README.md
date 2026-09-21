@@ -18,7 +18,7 @@ Check out :
 
 🏆 Best one and first place : 
 > https://github.com/kuromiaou/OneLastGame ***(about 10 devs)***
-><img width="1913" height="185" alt="image" src="https://github.com/user-attachments/assets/ab65fc47-0cfe-4feb-850a-94d2599beb7f" />
+><img width="1913" height="145" alt="655899682-ab65fc47-0cfe-4feb-850a-94d2599beb7f" src="https://github.com/user-attachments/assets/af6c5552-9f16-4f81-848d-697e08eeca0a" />
 
 - Making small game concept such as an **In game property modifiers** for a puzzle game.
 - Or even experiment thing such as scene lightning, 3D with blender
