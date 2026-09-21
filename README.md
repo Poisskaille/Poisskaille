@@ -1,25 +1,18 @@
-## Hey hey
-
-
-https://github.com/user-attachments/assets/354e5430-0dc4-40d7-aeb4-547a5e6eacc6
-
+## Welcome to my description 🦈
 ### Who am I ?
-- French
 - 21 years old
-- Third years in game dev
+- French student
+- Third year in game development at Gaming Campus
 
 ### What did I do ?
 I like :
   - Game Jams
 Check out :
-*latest one but the concept might be off* 
-https://github.com/Poisskaille/Musiscale-Invasion---Jam-
 
-*Best one
+🎵 *latest one, the concept might be off* : 
+> https://github.com/Poisskaille/Musiscale-Invasion---Jam- ***(solo dev)***
 
+🏆 *Best one and first place* : 
+> https://github.com/kuromiaou/OneLastGame ***(about 10 devs)***
 
-
-
-
-
-
+- 
