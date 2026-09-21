@@ -16,7 +16,6 @@ Check out :
 > https://github.com/Poisskaille/Musiscale-Invasion---Jam- ***(solo dev)***
 > <img width="1917" height="145" alt="Capture d&#39;écran 2026-09-21 181912" src="https://github.com/user-attachments/assets/691fd0d8-1903-4cab-9ce3-d49a2bf63978" />
 
-
 🏆 Best one and first place : 
 > https://github.com/kuromiaou/OneLastGame ***(about 10 devs)***
 ><img width="1913" height="185" alt="image" src="https://github.com/user-attachments/assets/ab65fc47-0cfe-4feb-850a-94d2599beb7f" />
